@@ -1,0 +1,6 @@
+# Ignore text files
+*.txt 
+
+# Ignore all extension files
+*.prettierrc
+
